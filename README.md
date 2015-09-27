@@ -15,7 +15,7 @@ I used these [dubro hinges.](http://shop.dubro.com/p/nylon-hinge-standard-size-q
 
 To make the servos move the wings and the head, you'll need three [RC pushrods](http://shop.dubro.com/p/kwik-link-on-a-12-2-56-rod?pp=12) and three [control horns.](http://shop.dubro.com/p/1-2-a-control-horns-qty-pkg-2?pp=12)
 
-Here is the paper pattern!  [(PDF Download Link)](http://www.pdf-archive.com/2015/09/27/bird-pattern/)
+Here is the paper pattern!  [(PDF Download Link)](http://document.li/DPvP)
 
 I need to post more photos and step-by-step guide.  More to come!
 
