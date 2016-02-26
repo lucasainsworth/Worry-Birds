@@ -8,7 +8,7 @@ For prototyping, and quick connections, I use a [DF Robot IO expansion shield.](
 
 ![IO Expansion Shield](http://s28.postimg.org/nd36ewif1/shield.jpg)
 
-You'll need some servo brackets to mount the servos. Hot glue won't stick well to the side of a servo! You'll nees four of [these](http://www.robotshop.com/en/lynxmotion-aluminum-multi-purpose-servo.html) and one of [these](http://www.robotshop.com/en/aluminum-l-connector-bracket-asb-06.html)
+You'll need some servo brackets to mount the servos. Hot glue won't stick well to the side of a servo! You'll need four of [these](http://www.robotshop.com/en/lynxmotion-aluminum-multi-purpose-servo.html) and one of [these](http://www.robotshop.com/en/aluminum-l-connector-bracket-asb-06.html)
 
 Hobby store parts! RC hobby shops are a great source of servos, little hinges and mechanical things!
 I used these [dubro hinges.](http://shop.dubro.com/p/nylon-hinge-standard-size-qty-pkg-6?pp=12)
